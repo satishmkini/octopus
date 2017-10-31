@@ -11,6 +11,7 @@
             }
         },
         "octopusDnsName": {
+            "defaultValue": "octopusdns",
             "type": "String",
             "metadata": {
                 "description": "Unique DNS Name used to address Octopus Deploy."
@@ -24,6 +25,7 @@
             }
         },
         "octopusAdminPassword": {
+            "defaultValue": "P2ssw0rd@123",
             "type": "SecureString",
             "metadata": {
                 "description": "Admin password for the Octopus Deploy application."
@@ -44,6 +46,7 @@
             }
         },
         "vmAdminPassword": {
+            "defaultValue": "P2ssw0rd@123",
             "type": "SecureString",
             "metadata": {
                 "description": "Admin password for the Octopus Deploy Virtual Machine."
@@ -57,6 +60,7 @@
             }
         },
         "sqlAdminPassword": {
+            "defaultValue": "P2ssw0rd@123",
             "type": "SecureString",
             "metadata": {
                 "description": "Admin password for the Octopus Deploy SQL DB Server."
@@ -76,18 +80,21 @@
             }
         },
         "licenseFullName": {
+            "defaultValue": "Microsoft DevOps",
             "type": "String",
             "metadata": {
                 "description": "Octopus Deploy Trial license - provide Full Name."
             }
         },
         "licenseOrganisationName": {
+            "defaultValue": "Microsoft DevOps",
             "type": "String",
             "metadata": {
                 "description": "Octopus Deploy Trial license - provide Organisation Name."
             }
         },
         "licenseEmailAddress": {
+            "defaultValue": "contact@sbdn.com",
             "type": "String",
             "metadata": {
                 "description": "Octopus Deploy Trial license - provide Email Addres."
