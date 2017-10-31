@@ -6,7 +6,7 @@
             "value": "https://gallery.azure.com/artifact/20151001/octopus.octopusdeployoctopus-deploy.1.0.4/Artifacts"
         },
         "octopusDnsName": {
-            "value": "octoazure"
+            "value": ""
         },
         "octopusAdminUsername": {
             "value": "admin"

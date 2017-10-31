@@ -8,10 +8,10 @@
             "metadata": {
                 "description": "Base URL for Marketplace",
                 "artifactsBaseUrl": ""
+            
             }
         },
         "octopusDnsName": {
-            "defaultValue": "octopusdns",
             "type": "String",
             "metadata": {
                 "description": "Unique DNS Name used to address Octopus Deploy."
